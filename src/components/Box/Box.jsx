@@ -12,5 +12,4 @@ shadow,
 )
 
 
-
 export default Box
