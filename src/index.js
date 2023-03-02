@@ -12,7 +12,7 @@ import { store } from './redux/store';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename='KaminskySergey'>
+  <BrowserRouter basename='Films'>
     <React.StrictMode> 
     <ThemeProvider theme={theme}>
       <BackgroundProvider>
